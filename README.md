@@ -1,9 +1,9 @@
 <img src = "giphy.gif" width = "325px" align = "right">
 
-# 💛 bem vindo(a) ao meu Github!
+# 💻 bem vindo(a) ao meu Github!
 sou desenvolvedor e participo atualmente de um intesivo de linguagens de programação.
 
-- ❤️ Estudando sobre back-end.
+- 🖊️ Estudando sobre back-end.
 - 💙 Aprendendo um idioma.
 ---
 
