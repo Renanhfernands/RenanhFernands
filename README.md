@@ -1,7 +1,7 @@
 <img src = "giphy.gif" width = "325px" align = "right">
 
 # 💻 bem vindo(a) ao meu Github!
-sou desenvolvedor e participo atualmente de um intesivo de linguagens de programação.
+Sou desenvolvedor e participo atualmente de um intesivo de linguagens de programação.
 
 Atualmente gerencio o TI da empresa MR4 Serviços e embalagens. :)
 
