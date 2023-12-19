@@ -2,7 +2,8 @@
 
 # 💻 bem vindo(a) ao meu Github!
 sou desenvolvedor e participo atualmente de um intesivo de linguagens de programação.
-Atualmente gerencio o TI da empresa MR4 Serviços e embalagens
+
+Atualmente gerencio o TI da empresa MR4 Serviços e embalagens. :)
 
 - 🖊️ Estudando sobre back-end.
 - 💙 Aprendendo um idioma.
