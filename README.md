@@ -3,7 +3,7 @@
 # 💻 bem vindo(a) ao meu Github!
 Sou desenvolvedor e participo atualmente de um intesivo de linguagens de programação.
 
-Atualmente gerencio o TI da empresa MR4 Serviços e embalagens. :)
+Atualmente gerencio o TI da empresa Castellari Imóveis. :)
 
 - 🖊️ Estudando sobre back-end.
 - 💙 Aprendendo um idioma.
